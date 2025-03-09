@@ -1,0 +1,9 @@
+---
+title: "Data Science Learning Journey"
+author: "Bilge"
+date: "2025-03-09"
+categories: [data science, machine learning, analysis]
+image: "image.webp"
+---
+
+This is a post about my journey in learning data science.

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Exploring Econometrics and Statistics",
+    "section": "",
+    "text": "Welcome to my first blog post on econometrics and statistics! These fields help us uncover patterns in data, make predictions, and understand economic relationships.\nEconometrics combines economic theory, mathematics, and statistical methods to analyze real-world data. Whether it’s predicting GDP growth, estimating consumer demand, or measuring the impact of policy changes, econometrics plays a vital role.\n\nWhy Statistics Matters\nStatistics provides the foundation for econometrics. Concepts like probability distributions, hypothesis testing, and regression analysis are essential tools for making data-driven decisions.\nIn upcoming posts, I’ll explore different econometric models, real-world applications, and data-driven insights. Stay tuned for more! 🚀"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MnemoeScape",
+    "section": "",
+    "text": "Data Science Learning Journey\n\n\n\n\n\n\ndata science\n\n\nmachine learning\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 9, 2025\n\n\nBilge\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Econometrics and Statistics\n\n\n\n\n\n\neconometrics\n\n\nstatistics\n\n\n\n\n\n\n\n\n\nMar 9, 2025\n\n\nBilge\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Data Science Learning Journey",
+    "section": "",
+    "text": "This is a post about my journey in learning data science."
+  }
+]

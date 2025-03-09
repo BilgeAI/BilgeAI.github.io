@@ -1,0 +1,18 @@
+---
+title: "Exploring Econometrics and Statistics"
+author: "Bilge"
+date: "2025-03-09"
+categories: [econometrics, statistics]
+image: "econ.webp"
+---
+
+Welcome to my first blog post on **econometrics** and **statistics**! These fields help us uncover patterns in data, make predictions, and understand economic relationships.
+
+
+
+Econometrics combines economic theory, mathematics, and statistical methods to analyze real-world data. Whether it's predicting GDP growth, estimating consumer demand, or measuring the impact of policy changes, econometrics plays a vital role.
+
+### Why Statistics Matters  
+Statistics provides the foundation for econometrics. Concepts like probability distributions, hypothesis testing, and regression analysis are essential tools for making data-driven decisions. 
+
+In upcoming posts, I’ll explore different econometric models, real-world applications, and data-driven insights. Stay tuned for more! 🚀
