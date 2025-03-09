@@ -18,7 +18,11 @@
     "href": "about.html",
     "title": "About",
     "section": "",
+<<<<<<< HEAD
     "text": "About this blog"
+=======
+    "text": "I’m an econometrics student trying to beat procastination, that’s why i created this blog. I hope that i can be helpful to myself and others. Wish me luck on my learning journey!"
+>>>>>>> cfb861b (About sayfasını güncelledim)
   },
   {
     "objectID": "posts/post-with-code/index.html",
